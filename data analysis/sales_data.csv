@@ -1,0 +1,60 @@
+order_id,order_date,customer_id,category,product_id,product_name,region,order_amount
+1001,2025-01-05,C001,Electronics,P101,Smartphone,North,699
+1002,2025-01-07,C002,Fashion,P201,T-Shirt,South,29
+1003,2025-01-08,C003,Home & Kitchen,P301,Blender,East,120
+1004,2025-01-10,C001,Electronics,P102,Laptop,North,1200
+1005,2025-01-12,C004,Fashion,P202,Jeans,West,55
+1006,2025-01-15,C005,Beauty,P401,Perfume,South,80
+1007,2025-01-18,C006,Electronics,P103,Headphones,East,150
+1008,2025-01-20,C007,Home & Kitchen,P302,Coffee Maker,West,95
+1009,2025-01-22,C008,Fashion,P203,Jacket,North,110
+1010,2025-01-25,C009,Beauty,P402,Lipstick,South,25
+1011,2025-02-02,C010,Electronics,P104,Tablet,East,450
+1012,2025-02-05,C011,Home & Kitchen,P303,Microwave,West,200
+1013,2025-02-07,C012,Fashion,P204,Sneakers,North,75
+1014,2025-02-10,C013,Beauty,P403,Face Cream,South,40
+1015,2025-02-12,C014,Electronics,P105,Smartwatch,East,199
+1016,2025-02-15,C015,Fashion,P205,Dress,West,65
+1017,2025-02-18,C016,Home & Kitchen,P304,Vacuum Cleaner,North,300
+1018,2025-02-20,C017,Electronics,P106,Camera,South,850
+1019,2025-02-22,C018,Beauty,P404,Shampoo,East,15
+1020,2025-02-25,C019,Fashion,P206,Scarf,West,20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
